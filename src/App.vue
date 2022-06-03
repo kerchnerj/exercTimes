@@ -5,11 +5,12 @@
       <span>|</span>
       <span><RouterLink to="/jogadores">Jogadores</RouterLink></span>
       <span>|</span>
-      <span><RouterLink to="/times">times</RouterLink></span>
+      <span><RouterLink to="/times">Times</RouterLink></span>
     </div>
-    <div class="menu-direito"><span>sair</span></div>
+    <div class="menu-direito"><span>Sair</span></div>
   </header>
   <RouterView />
+  <footer> Rodapé </footer>
 </template>
 
 <style>
@@ -28,7 +29,7 @@ a{
 
 header,
 footer {
-  background-color: cornflowerblue;
+  background-color: rgb(45, 70, 117);
   height: 15%;
   font-size: 1.3rem;
   color: white;

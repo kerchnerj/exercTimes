@@ -1,9 +1,11 @@
 <script setup>
 import HeaderComp from "@/components/template/HeaderComp.vue";
+import RodapeComp from "./components/RodapeComp.vue";
 </script>
 <template>
-<HeaderComp/>
+ <HeaderComp/>
  <RouterView />
+ <RodapeComp/>
  <footer>Rodapé</footer>
 </template>
 

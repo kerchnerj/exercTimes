@@ -1,4 +1,4 @@
 <template>
-  <main>times</main>
-  <footer>rodapé</footer>
+  <main>Times</main>
+  <footer>Rodapé</footer>
 </template>

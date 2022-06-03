@@ -1,4 +1,4 @@
 <template>
-  <main>bem-vindo</main>
-  <footer>rodape</footer>
+  <main>Bem-vindo</main>
+  <footer>Rodapé</footer>
 </template>

@@ -1,7 +1,10 @@
-<script setup></script>
+<script setup>
+import HeaderComp from "@/components/template/HeaderComp.vue";
+</script>
 <template>
- 
-  <RouterView />
+<HeaderComp/>
+ <RouterView />
+ <footer>Rodapé</footer>
 </template>
 
 <style>
